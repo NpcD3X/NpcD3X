@@ -16,10 +16,10 @@ I currently work in the cryptocurrency space as an operations manager. I am pass
 
 ### Interests
 
-- Android
-- GrapheneOS
-- Debian
-- KDE
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com)
+[![GrapheneOS](https://img.shields.io/badge/GrapheneOS-0B0B0B?style=for-the-badge&logo=grapheneos&logoColor=white)](https://grapheneos.org)
+[![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org)
+[![KDE](https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white)](https://kde.org)
 
 ### Products I use
 
