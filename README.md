@@ -50,6 +50,6 @@ I currently work in the cryptocurrency space as an operations manager. I am pass
 
 <div align="center">
 
-Feel free to reach out on [Signal](https://signal.org) if you are building something cool. 🚀
+🚀 If you are building something cool, feel free to reach out on [Signal](https://signal.org)
 
 </div>
