@@ -10,12 +10,7 @@
 
 ## 🧑‍💻 WhoAmI
 
-I currently work in the cryptocurrency space as an operations manager. I am passionate about open-source software (OSS) and privacy-preserving tools, and I am also a bit of a naive libertarian.
-
-If you're building something cool, feel free to reach out:
-
-[![Signal](https://img.shields.io/badge/Signal-Message_me-3164CC?style=flat&logo=signal&logoColor=white&labelColor=0B0B0B)](https://signal.org)
-[![Telegram](https://img.shields.io/badge/Telegram-Message_me-1C7FB0?style=flat&logo=telegram&logoColor=white&labelColor=0B0B0B)](https://telegram.org)
+I currently work in the cryptocurrency space as an operations manager. I am passionate about open-source software (OSS) and privacy-preserving tools, and I am also a bit of a naive libertarian. If you're building something cool, feel free to reach out on [Signal](https://signal.org) or [Telegram](https://telegram.org).
 
 ## 🧰 My Setup
 
