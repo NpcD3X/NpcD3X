@@ -23,7 +23,7 @@ I currently work in the cryptocurrency space as an operations manager. I am pass
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org)
 [![KDE](https://img.shields.io/badge/KDE-177AC2?style=for-the-badge&logo=kde&logoColor=white)](https://kde.org)
 
-**Privacy & Security**
+**Communication & Identity**
 
 [![Mullvad](https://img.shields.io/badge/Mullvad-294D73?style=for-the-badge&logo=mullvad&logoColor=white)](https://mullvad.net)
 [![Proton Suite](https://img.shields.io/badge/Proton%20Suite-5D3FD9?style=for-the-badge&logo=proton&logoColor=white)](https://proton.me)
