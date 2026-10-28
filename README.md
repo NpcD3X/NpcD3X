@@ -23,40 +23,37 @@ I currently work in the cryptocurrency space as an operations manager. I am pass
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org)
 [![KDE](https://img.shields.io/badge/KDE-177AC2?style=for-the-badge&logo=kde&logoColor=white)](https://kde.org)
 
-**Communication & Identity**
+**Apps & Services**
 
 [![Mullvad](https://img.shields.io/badge/Mullvad-294D73?style=for-the-badge&logo=mullvad&logoColor=white)](https://mullvad.net)
 [![Proton Suite](https://img.shields.io/badge/Proton%20Suite-5D3FD9?style=for-the-badge&logo=proton&logoColor=white)](https://proton.me)
 [![Signal](https://img.shields.io/badge/Signal-3164CC?style=for-the-badge&logo=signal&logoColor=white)](https://signal.org)
 [![KeePassXC](https://img.shields.io/badge/KeePassXC-4A8A33?style=for-the-badge&logo=keepassxc&logoColor=white)](https://keepassxc.org)
-[![YubiKey](https://img.shields.io/badge/YubiKey-5C8400?style=for-the-badge&logo=yubico&logoColor=white)](https://www.yubico.com)
-
-**Crypto**
-
-[![Monero](https://img.shields.io/badge/Monero-C2521B?style=for-the-badge&logo=monero&logoColor=white)](https://www.getmonero.org)
-[![Trezor](https://img.shields.io/badge/Trezor-00854D?style=for-the-badge&logo=trezor&logoColor=white)](https://trezor.io)
-
-**Apps & Tools**
-
 [![Fossify](https://img.shields.io/badge/Fossify-2B9A5C?style=for-the-badge&logo=android&logoColor=white)](https://www.fossify.org)
 [![Thunderbird](https://img.shields.io/badge/Thunderbird-086ACC?style=for-the-badge&logo=thunderbird&logoColor=white)](https://www.thunderbird.net)
 [![Ente](https://img.shields.io/badge/Ente-14813B?style=for-the-badge&logoColor=white)](https://ente.io)
 [![Notesnook](https://img.shields.io/badge/Notesnook-0F8F44?style=for-the-badge&logoColor=white)](https://notesnook.com)
 [![Brave](https://img.shields.io/badge/Brave-C94322?style=for-the-badge&logo=brave&logoColor=white)](https://brave.com)
 [![qBittorrent](https://img.shields.io/badge/qBittorrent-2B5FA8?style=for-the-badge&logo=qbittorrent&logoColor=white)](https://www.qbittorrent.org)
-[![Obtainium](https://img.shields.io/badge/Obtainium-6750A4?style=for-the-badge&logoColor=white)](https://obtainium.imranr.dev)
+[![Obtainium](https://img.shields.io/badge/Obtainium-6750A4?style=for-the-badge&logo=android&logoColor=white)](https://obtainium.imranr.dev)
+
+**Crypto & Hardware**
+
+[![Monero](https://img.shields.io/badge/Monero-C2521B?style=for-the-badge&logo=monero&logoColor=white)](https://www.getmonero.org)
+[![Trezor](https://img.shields.io/badge/Trezor-00854D?style=for-the-badge&logo=trezor&logoColor=white)](https://trezor.io)
+[![YubiKey](https://img.shields.io/badge/YubiKey-5C8400?style=for-the-badge&logo=yubico&logoColor=white)](https://www.yubico.com)
 
 **Backup & Sync**
 
 [![Borg](https://img.shields.io/badge/Borg-009B00?style=for-the-badge&logo=borgbackup&logoColor=white)](https://www.borgbackup.org)
 [![Vorta](https://img.shields.io/badge/Vorta-2A6F97?style=for-the-badge&logoColor=white)](https://vorta.borgbase.com)
 [![Syncthing](https://img.shields.io/badge/Syncthing-0674A7?style=for-the-badge&logo=syncthing&logoColor=white)](https://syncthing.net)
-[![Timeshift](https://img.shields.io/badge/Timeshift-2E7D32?style=for-the-badge&logoColor=white)](https://github.com/linuxmint/timeshift)
+[![Timeshift](https://img.shields.io/badge/Timeshift-2E7D32?style=for-the-badge&logo=linuxmint&logoColor=white)](https://github.com/linuxmint/timeshift)
 
 **AI Models**
 
-[![Gemma](https://img.shields.io/badge/Gemma-3367D6?style=for-the-badge&logoColor=white)](https://ai.google.dev/gemma)
-[![Llama](https://img.shields.io/badge/Llama-1B5CCF?style=for-the-badge&logoColor=white)](https://www.llama.com)
+[![Gemma](https://img.shields.io/badge/Gemma-3367D6?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/gemma)
+[![Llama](https://img.shields.io/badge/Llama-1B5CCF?style=for-the-badge&logo=meta&logoColor=white)](https://www.llama.com)
 [![DeepSeek](https://img.shields.io/badge/DeepSeek-3A52C9?style=for-the-badge&logo=deepseek&logoColor=white)](https://www.deepseek.com)
 [![Claude](https://img.shields.io/badge/Claude-B85C3E?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai)
 
