@@ -14,8 +14,8 @@ I currently work in the cryptocurrency space as an operations manager. I am pass
 
 If you're building something cool, feel free to reach out:
 
-[![Signal](https://img.shields.io/badge/Signal-3164CC?style=for-the-badge&logo=signal&logoColor=white)](https://signal.org)
-[![Telegram](https://img.shields.io/badge/Telegram-1C7FB0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.org)
+[![Signal](https://img.shields.io/badge/Signal-Message_me-3164CC?style=flat&logo=signal&logoColor=white&labelColor=0B0B0B)](https://signal.org)
+[![Telegram](https://img.shields.io/badge/Telegram-Message_me-1C7FB0?style=flat&logo=telegram&logoColor=white&labelColor=0B0B0B)](https://telegram.org)
 
 ## 🧰 My Setup
 
@@ -41,7 +41,7 @@ If you're building something cool, feel free to reach out:
 [![Monero](https://img.shields.io/badge/Monero-C2521B?style=for-the-badge&logo=monero&logoColor=white)](https://www.getmonero.org)
 [![Trezor](https://img.shields.io/badge/Trezor-00854D?style=for-the-badge&logo=trezor&logoColor=white)](https://trezor.io)
 
-**Everyday Apps**
+**Apps & Tools**
 
 [![Fossify](https://img.shields.io/badge/Fossify-2B9A5C?style=for-the-badge&logo=android&logoColor=white)](https://www.fossify.org)
 [![Thunderbird](https://img.shields.io/badge/Thunderbird-086ACC?style=for-the-badge&logo=thunderbird&logoColor=white)](https://www.thunderbird.net)
