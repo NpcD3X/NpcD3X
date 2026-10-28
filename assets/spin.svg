@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="64" viewBox="0 0 560 64" role="img" aria-label="Open source software spins the planet">
+  <title>Open source software spins the planet</title>
+  <style>
+    .globe { font-size: 34px; }
+    .label { font: 600 20px 'Fira Code', 'DejaVu Sans Mono', monospace; fill: #00D1B2; }
+  </style>
+  <!-- Three globe frames cycling to look like a spinning planet -->
+  <g class="globe" text-anchor="middle">
+    <text x="42" y="44">🌍
+      <animate attributeName="opacity" values="1;1;0;0;0;0" keyTimes="0;0.33;0.34;0.66;0.67;1" dur="2.4s" repeatCount="indefinite" calcMode="discrete"/>
+    </text>
+    <text x="42" y="44" opacity="0">🌎
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.34;0.66;0.67;1" dur="2.4s" repeatCount="indefinite" calcMode="discrete"/>
+    </text>
+    <text x="42" y="44" opacity="0">🌏
+      <animate attributeName="opacity" values="0;0;0;0;1;1" keyTimes="0;0.33;0.34;0.66;0.67;1" dur="2.4s" repeatCount="indefinite" calcMode="discrete"/>
+    </text>
+  </g>
+  <text class="label" x="80" y="40">Open source software spins the planet</text>
+</svg>
