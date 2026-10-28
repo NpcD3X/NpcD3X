@@ -53,6 +53,13 @@ I currently work in the cryptocurrency space as an operations manager. I am pass
 [![Syncthing](https://img.shields.io/badge/Syncthing-0674A7?style=for-the-badge&logo=syncthing&logoColor=white)](https://syncthing.net)
 [![Timeshift](https://img.shields.io/badge/Timeshift-2E7D32?style=for-the-badge&logoColor=white)](https://github.com/linuxmint/timeshift)
 
+**AI Models**
+
+[![Gemma](https://img.shields.io/badge/Gemma-3367D6?style=for-the-badge&logoColor=white)](https://ai.google.dev/gemma)
+[![Llama](https://img.shields.io/badge/Llama-1B5CCF?style=for-the-badge&logoColor=white)](https://www.llama.com)
+[![DeepSeek](https://img.shields.io/badge/DeepSeek-3A52C9?style=for-the-badge&logo=deepseek&logoColor=white)](https://www.deepseek.com)
+[![Claude](https://img.shields.io/badge/Claude-B85C3E?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai)
+
 ---
 
 <div align="center">
