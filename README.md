@@ -19,15 +19,14 @@ If you're building something cool, feel free to reach out:
 
 ## 🧰 My Setup
 
-### What I'm Into
+### Daily Drivers
+
+**Operating Systems & Desktop**
 
 [![Android](https://img.shields.io/badge/Android-2B9A5C?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com)
 [![GrapheneOS](https://img.shields.io/badge/GrapheneOS-0B0B0B?style=for-the-badge&logo=grapheneos&logoColor=white)](https://grapheneos.org)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org)
 [![KDE](https://img.shields.io/badge/KDE-177AC2?style=for-the-badge&logo=kde&logoColor=white)](https://kde.org)
-[![Monero](https://img.shields.io/badge/Monero-C2521B?style=for-the-badge&logo=monero&logoColor=white)](https://www.getmonero.org)
-
-### Daily Drivers
 
 **Privacy & Security**
 
@@ -36,6 +35,10 @@ If you're building something cool, feel free to reach out:
 [![Signal](https://img.shields.io/badge/Signal-3164CC?style=for-the-badge&logo=signal&logoColor=white)](https://signal.org)
 [![KeePassXC](https://img.shields.io/badge/KeePassXC-4A8A33?style=for-the-badge&logo=keepassxc&logoColor=white)](https://keepassxc.org)
 [![YubiKey](https://img.shields.io/badge/YubiKey-5C8400?style=for-the-badge&logo=yubico&logoColor=white)](https://www.yubico.com)
+
+**Crypto**
+
+[![Monero](https://img.shields.io/badge/Monero-C2521B?style=for-the-badge&logo=monero&logoColor=white)](https://www.getmonero.org)
 [![Trezor](https://img.shields.io/badge/Trezor-00854D?style=for-the-badge&logo=trezor&logoColor=white)](https://trezor.io)
 
 **Everyday Apps**
