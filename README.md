@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 WhoAmI
 
-I currently work in the cryptocurrency space as an operations manager. I am passionate about open-source software (OSS) and privacy-preserving tools, and I am also a bit of a naive libertarian. If you're building something cool, feel free to reach out on [Signal](https://signal.org) or [Telegram](https://telegram.org).
+I currently work in the cryptocurrency space as an operations manager. I am passionate about open-source software (OSS) and privacy-preserving tools, and I am also a bit of a naive libertarian. If you're building something cool, feel free to reach out on [Signal](https://signal.org) or [Telegram](https://signal.org).
 
 ## 🧰 My Setup
 
